@@ -74,3 +74,26 @@ It covers the complete data analytics workflow — from data loading and cleanin
 * Found differences in spending patterns across segments
 * Highlighted top-performing products
 * Discovered impact of shipping and subscriptions on revenue
+
+⸻
+
+▶️ How to Run
+
+1. Clone the repository
+
+git clone https://github.com/your-username/customer_behaviour_analysis.git
+
+2. Open Jupyter Notebook
+3. Install required libraries
+
+pip install pandas numpy matplotlib seaborn
+
+4. Run the notebook step-by-step
+5. Connect to MySQL (optional for SQL analysis)
+6. Open Power BI file to view dashboard
+
+⸻
+
+🚀 Conclusion
+
+This project demonstrates end-to-end data analysis skills including data cleaning, SQL querying, visualization, and business insight generation.
